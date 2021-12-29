@@ -25,9 +25,8 @@ If you would like to share it with the world, you can do that here. Go through t
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-<h2> Link To The Website</h2>
 
-https://prathimacode-hub.github.io/Open-Source-Programs/
+<h2>👍List Of All The OpenSource Programs</h2>
 
 
 <h2>👨‍💻 Workflow:</h2>
@@ -43,9 +42,6 @@ https://prathimacode-hub.github.io/Open-Source-Programs/
 - Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
 > print("Start contributing for Open-Source-Programs")
-
-
-<h2>👍List Of All The OpenSource Programs</h2>
 
 
 <h2>📜 Code Of Conduct</h2>
