@@ -27,7 +27,29 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>👍List Of All The OpenSource Programs</h2>
 
+<h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>Open Source Programs by <a href="https://github.com/prathimacode-hub">@prathimacode-hub</a>
+  </h1>
 
+| :hash: | Program Name | Details | Duration | Rewards |
+|:--------:|---------|-------------|-----------|----------|
+| :one:  | [GirlScript Summer Of Code]()| <br>  <br>3 months long Open Source program during summers conducted by GirlScript Foundation <br> | 1st March- 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
+| :two:  | [LetsGrowMore Summer Of Code (LGMSOC)]()| <br> 2 months Open Source program <br><br> | 10-June to 10th Aug | Certificates and Swags to Top Contributors |
+| :three:  | [DevIncept Codes]()| <br> 30-Day Contribution Program <br><br> | 10-July to 10th Aug | Certificates and Swags to Top Contributors |
+| :four:  | [GirlScript Winter Of Contributing (GWOC)]()| <br> GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation. <br><br> | 1st Aug-1st Dec | 	Appreciation Certificates and Swags to Top Contributors and Participation Certificates |
+| :five:  | [Delta Winter Of Code (DWoC]()| <br>  Code (DWoC)	DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. <br><br> | 18 Oct-31 Jan | Certificates and Swags |
+| :six:  | [Script Winter Of Code]()| <br> Script Winter of Code is an open-source program envisioned by the Script Foundation. <br><br> | 6 Nov-28 Feb | Certificates, Perks and Opportunities |
+| :seven: | [Hacktoberfest]()| <br> Open source is changing the world - one pull request at a time. <br><br> | 1 Oct-31st Oct | T.Shirt / Plant a Tree |
+<!-- | :eight: | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | <br> A Curated Collection of Awesome Python Scripts that will make you go wow.  <br><br> | [@prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) |
+| :nine: | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | <br> This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and everything. <br><br> | [@prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)|
+| :one::zero: | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)| <br> This project aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields. <br><br> | [@prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) |
+| :one::one: | [DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook)| <br> The sole repo to get acquainted with Data Science. It encloses with the unique collection of scripts based on Linear Algebra, Calculus, Statistics, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision and Artificial Intelligence. <br><br> | [@prathimacode-hub/DS-ScriptsNook](https://github.com/prathimacode-hub/DS-ScriptsNook) |
+| :one::two: | [Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021)| <br> This repository showcases all the open source projects that had been plattered for contributions at Hacktoberfest 2021. <br><br> | [@prathimacode-hub/Hacktober-Fest-2021](https://github.com/prathimacode-hub/Hacktober-Fest-2021) |
+| :one::three: | [E-Library](https://github.com/prathimacode-hub/E-Library) | <br> One stop place for all technical guidance on various topics and programming languages. <br><br> | [@prathimacode-hub/E-Library](https://github.com/prathimacode-hub/E-Library) |
+| :one::four: | [HelloWorld](https://github.com/prathimacode-hub/HelloWorld) | <br> HelloWorld, this repository is made for collaborating with various developers specialized in different programming languages. <br><br> | [@prathimacode-hub/HelloWorld](https://github.com/prathimacode-hub/HelloWorld) |
+
+
+<p align="center"><br><a href="#hugs-projects-by-prathimacode-hub--">:top:</a><br><sup><strong>Show <a href="https://github.com/prathimacode-hub?tab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://twitter.com/prathimak88"> <img src="https://img.shields.io/twitter/follow/prathimak88?style=social" /></a> <a href="https://github.com/prathimacode-hub/"><img src="https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social"> </a><br></p> -->
+  
 <h2>👨‍💻 Workflow:</h2>
 
 - Fork the repository
