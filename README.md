@@ -31,8 +31,8 @@ The open source programs listed below mentions the tenure of the contributing pe
 
 All PR's are welcomed. ✨ this repository to get updated.
 
-<h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>Open Source Programs by <a href="https://github.com/prathimacode-hub">@prathimacode-hub</a>
-  </h1>
+<h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>
+</h1>
   
 ## Universities and Competition Based Programs
 
