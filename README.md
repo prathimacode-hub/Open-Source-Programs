@@ -1,5 +1,3 @@
-# Open-Source-Programs
-
 # Welcome to Open-Source-Programs👋
 
 <p align="center">
