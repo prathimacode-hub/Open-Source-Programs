@@ -3,7 +3,7 @@
 # Welcome to Open-Source-Programs👋
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Open-Source.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Open-Source-Programs.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
@@ -32,13 +32,15 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 | :hash: | Program Name | Details | Duration | Rewards |
 |:--------:|---------|-------------|-----------|----------|
-| :one:  | [GirlScript Summer Of Code]()| <br>  <br>3 months long Open Source program during summers conducted by GirlScript Foundation <br> | 1st March- 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
-| :two:  | [LetsGrowMore Summer Of Code (LGMSOC)]()| <br> 2 months Open Source program <br><br> | 10-June to 10th Aug | Certificates and Swags to Top Contributors |
-| :three:  | [DevIncept Codes]()| <br> 30-Day Contribution Program <br><br> | 10-July to 10th Aug | Certificates and Swags to Top Contributors |
-| :four:  | [GirlScript Winter Of Contributing (GWOC)]()| <br> GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation. <br><br> | 1st Aug-1st Dec | 	Appreciation Certificates and Swags to Top Contributors and Participation Certificates |
-| :five:  | [Delta Winter Of Code (DWoC]()| <br>  Code (DWoC)	DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. <br><br> | 18 Oct-31 Jan | Certificates and Swags |
-| :six:  | [Script Winter Of Code]()| <br> Script Winter of Code is an open-source program envisioned by the Script Foundation. <br><br> | 6 Nov-28 Feb | Certificates, Perks and Opportunities |
-| :seven: | [Hacktoberfest]()| <br> Open source is changing the world - one pull request at a time. <br><br> | 1 Oct-31st Oct | T.Shirt / Plant a Tree |
+| :one:  | [Cross Winter Of Code]()| <br>  <br> CrossWoC is a six-week long opensource event organised by IEEE DTU & IEEE DTU CS. <br> | 13th Feb - 28th Mar | Certificates and Swags |
+| :two:  | [GirlScript Summer Of Code]()| <br>  <br>3 months long Open Source program during summers conducted by GirlScript Foundation <br> | 1st March- 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
+| :three:  | [LetsGrowMore Summer Of Code (LGMSOC)]()| <br> 2 months Open Source program <br><br> | 10-June to 10th Aug | Certificates and Swags to Top Contributors |
+| :four:  | [DevIncept Codes]()| <br> 30-Day Contribution Program <br><br> | 10-July to 10th Aug | Certificates and Swags to Top Contributors |
+| :five:  | [GirlScript Winter Of Contributing (GWOC)]()| <br> GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation. <br><br> | 1st Aug-1st Dec | 	Appreciation Certificates and Swags to Top Contributors and Participation Certificates |
+| :six: | [Hacktoberfest]()| <br> Open source is changing the world - one pull request at a time. <br><br> | 1 Oct-31st Oct | T.Shirt / Plant a Tree |
+| :seven:  | [Delta Winter Of Code (DWoC]()| <br>  Code (DWoC)	DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. <br><br> | 18 Oct-31 Jan | Certificates and Swags |
+| :eight:  | [Script Winter Of Code]()| <br> Script Winter of Code is an open-source program envisioned by the Script Foundation. <br><br> | 6 Nov-28 Feb | Certificates, Perks and Opportunities |
+| :nine:  | [Google Developer Students Club Winter Of Code 2.0](https://gdsc-woc.tech/)| <br> It's a winter of code program conducted by all the Google Developer Student Clubs together. <br><br> | 5 Dec-5 Feb | Certificates and Swags |
 <!-- | :eight: | [Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) | <br> A Curated Collection of Awesome Python Scripts that will make you go wow.  <br><br> | [@prathimacode-hub/Awesome_Python_Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts) |
 | :nine: | [ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) | <br> This kart showcases the finest collection of all projects based on Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and everything. <br><br> | [@prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart)|
 | :one::zero: | [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree)| <br> This project aims to be a finest hub of various data structures and algorithms you need to know in python across different topics and fields. <br><br> | [@prathimacode-hub/PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) |
