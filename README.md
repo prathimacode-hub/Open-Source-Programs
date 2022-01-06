@@ -109,7 +109,7 @@ If this project helped you, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
 </td>
 
 
