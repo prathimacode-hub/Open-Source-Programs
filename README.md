@@ -1,7 +1,7 @@
 # Welcome to Open-Source-Programs👋
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Open-Source-Programs.png"></a>
+<img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/CoverPhotos/Open-Source-Programs.png">
 </p>
 <p align="center">
 <a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
@@ -95,8 +95,7 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Open-
 
 <h2>🙂 Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width=100px height=100px /></a>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
