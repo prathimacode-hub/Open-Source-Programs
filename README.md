@@ -54,7 +54,7 @@ All PR's are welcomed. ✨ this repository to get updated.
 | :one::six: | [NJACK Winter Of Code IIT Patna](https://www.codepeak.tech/)| <br> NWoC is a program by NJACK, The Official Computer Science Club of IIT Patna + IIT Guwahati. A 1 month program that helps participants understand the paradigm of opne source contribution and gives real-world software development experience. <br><br> | 3rd Dec-6th Jan | Certificates & Swags|
 | :one::seven: | [Google Developer Students Club Winter Of Code 2.0](https://gdsc-woc.tech/)| <br> It's a winter of code program conducted by all the Google Developer Student Clubs together. <br><br> | 5 Dec-5 Feb | Certificates and Swags |
 | :one::eight: | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org//)| <br> Kharagpur Winter of Code is a 5-week long online program by IIT Kharagpur. <br><br> | 6th Dec-4th Jan | Certificates and Swags |
-| :one::nine | [NSEC Winter Of Code](https://winterofcode.com/)| <br> Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution. <br><br> | 16th Dec-20th Jan | Certificates and T.Shirt |
+| :one::nine: | [NSEC Winter Of Code](https://winterofcode.com/)| <br> Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution. <br><br> | 16th Dec-20th Jan | Certificates and T.Shirt |
 
 
 ## Fellowships, Scholarships, Internship and Mentorship based programs
