@@ -29,45 +29,45 @@ The open source programs listed below mentions the tenure of the contributing pe
 
 All PR's are welcomed. ✨ this repository to get updated.
 
-<h1 align="center">:hugs:<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>
+<h1 align="center">&#129303;<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>
 </h1>
   
 ## Universities and Competition Based Programs
 
-| :hash: | Program Name | Details | Duration | Rewards |
+| #️⃣ | Program Name | Details | Duration | Rewards |
 |:--------:|---------|-------------|-----------|----------|
-| :one:  | [JGEC Winter Of Code](https://jwoc.tech/)| <br>  <br> JWoC is a coding event organised annually by JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. <br> | 1st Feb - 2nd Mar | Certificates and Swags |
-| :two:   | [Cross Winter Of Code](https://crosswoc.ieeedtu.in/)| <br>  <br> CrossWoC is a six-week long Open Source event organised by IEEE DTU & IEEE DTU CS. <br> | 13th Feb - 28th Mar | Certificates and Swags |
-| :three: | [GirlScript Summer Of Code](https://gssoc.girlscript.tech/)| <br>  <br> 3 months long Open Source program during summers conducted by GirlScript Foundation. <br> | 1st Mar - 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
-| :four: | [CodeFlow Open Source ](https://www.openforce.tech/)| <br>  <br> OpenForce 2022 is a place where they can meet mentors from OpenSource Organisations and contribute to them under guidance, network and “bring the Open Source Culture”. <br> | 3rd Mar - 23rd Mar | Goodies & Certificates |
-| :five: | [OSS Summer Of Innovation](https://oss2019.github.io/SoI.html)| <br>  <br> Summer of Innovation, an initiative by the OSS to transform your summer into an innovation extravaganza. <br> | 6th May- 28th July | Certificates and Swags |
-| :six: | [LetsGrowMore Summer Of Code (LGMSOC)](https://letsgrowmore.in/soc/)| <br> 2 Months Open Source program by LetsGrowMore community. <br><br> | 10th-June to 10th Aug | Certificates and Swags to Top Contributors |
-| :seven: | [PClub Summer Of Code](https://winterofcode.com/)| <br> Pclub Summer of Code is the two-month-long Open Source program conducted during summers by Programming Club, UIET. <br><br> | July-Sept | Certificates |
-| :eight: | [DevIncept Codes](https://contribute.devincept.com/)| <br> 30-Day Contribution Program. <br><br> | 10 July to 10th Aug | Certificates and Swags to Top Contributors |
-| :nine: | [GirlScript Winter Of Contributing (GWOC)](https://gwoc.girlscript.tech/)| <br> GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation. <br><br> | 1st Aug-1st Dec | 	Appreciation Certificates and Swags to Top Contributors and Participation Certificates |
-| :keycap_ten: | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)| <br> SLoP is an initiative of Developer Students Club DA-IICT exclusive for students who are new to open source. <br><br> | 28th Sept-23rd Nov | Certificates |
-| :one::one: | [Hacktoberfest](https://hacktoberfest.digitalocean.com/)| <br> Open source is changing the world - one pull request at a time. <br><br> | 1st Oct-31st Oct | T.Shirt / Plant a Tree |
-| :one::two: | [Delta Winter Of Code (DWoC](https://dwoc.io/)| <br> DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. <br><br> | 18th Oct-31th Jan | Certificates and Swags |
-| :one::three: | [Open Code IIIT Allahabad](https://opencodeiiita.github.io/)| <br> OpenCode is a month-long event of open-source by Geek Haven, IIIT Allahabad where programmers, designers, and innovators code, design, learn, and build solutions. <br><br> | Nov-Dec | Certificates |
-| :one::four: | [Script Winter Of Code](https://swoc.scriptindia.org/#/)| <br> Script Winter of Code is an open-source program envisioned by the Script Foundation. <br><br> | 6th Nov-28th Feb | Certificates, Perks and Opportunities |
-| :one::five: | [FOSSASIA Codeheat](https://codeheat.org/)| <br> Codeheat is a 2-month coding contest for FOSSASIA projects on GitHub. <br><br> | 10th Nov-11th May | Certificates and Prizes |
-| :one::six: | [24PullRequests](https://24pullrequests.com/)| <br> 24 Pull Requests is an annual community-organized event encouraging developers to give back to open source projects over the holiday season. <br><br> | 1st Dec-24th Dec | No Swags Offered |
-| :one::seven: | [NJACK Winter Of Code IIT Patna](https://www.codepeak.tech/)| <br> NWoC is a program by NJACK, The Official Computer Science Club of IIT Patna + IIT Guwahati. A 1 month program that helps participants understand the paradigm of opne source contribution and gives real-world software development experience. <br><br> | 3rd Dec-6th Jan | Certificates & Swags|
-| :one::eight: | [Google Developer Students Club Winter Of Code 2.0](https://gdsc-woc.tech/)| <br> It's a winter of code program conducted by all the Google Developer Student Clubs together. <br><br> | 5 Dec-5 Feb | Certificates and Swags |
-| :one::nine: | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org//)| <br> Kharagpur Winter of Code is a 5-week long online program by IIT Kharagpur. <br><br> | 6th Dec-4th Jan | Certificates and Swags |
-| :two::zero: | [NSEC Winter Of Code](https://winterofcode.com/)| <br> Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution. <br><br> | 16th Dec-20th Jan | Certificates and T.Shirt |
+| 1️⃣   | [JGEC Winter Of Code](https://jwoc.tech/)| <br>  <br> JWoC is a coding event organised annually by JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. <br> | 1st Feb - 2nd Mar | Certificates and Swags |
+| 2️⃣   | [Cross Winter Of Code](https://crosswoc.ieeedtu.in/)| <br>  <br> CrossWoC is a six-week long Open Source event organised by IEEE DTU & IEEE DTU CS. <br> | 13th Feb - 28th Mar | Certificates and Swags |
+| 3️⃣ | [GirlScript Summer Of Code](https://gssoc.girlscript.tech/)| <br>  <br> 3 months long Open Source program during summers conducted by GirlScript Foundation. <br> | 1st Mar - 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
+| 4️⃣ | [CodeFlow Open Source ](https://www.openforce.tech/)| <br>  <br> OpenForce 2022 is a place where they can meet mentors from OpenSource Organisations and contribute to them under guidance, network and “bring the Open Source Culture”. <br> | 3rd Mar - 23rd Mar | Goodies & Certificates |
+| 5️⃣ | [OSS Summer Of Innovation](https://oss2019.github.io/SoI.html)| <br>  <br> Summer of Innovation, an initiative by the OSS to transform your summer into an innovation extravaganza. <br> | 6th May- 28th July | Certificates and Swags |
+| 6️⃣ | [LetsGrowMore Summer Of Code (LGMSOC)](https://letsgrowmore.in/soc/)| <br> 2 Months Open Source program by LetsGrowMore community. <br><br> | 10th-June to 10th Aug | Certificates and Swags to Top Contributors |
+| 7️⃣ | [PClub Summer Of Code](https://winterofcode.com/)| <br> Pclub Summer of Code is the two-month-long Open Source program conducted during summers by Programming Club, UIET. <br><br> | July-Sept | Certificates |
+| 8️⃣ | [DevIncept Codes](https://contribute.devincept.com/)| <br> 30-Day Contribution Program. <br><br> | 10 July to 10th Aug | Certificates and Swags to Top Contributors |
+| 9️⃣ | [GirlScript Winter Of Contributing (GWOC)](https://gwoc.girlscript.tech/)| <br> GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation. <br><br> | 1st Aug-1st Dec | 	Appreciation Certificates and Swags to Top Contributors and Participation Certificates |
+| 1️⃣0️⃣ | [Semester Long Projects (SLoP by DA-IICT)](https://slop.dscdaiict.in/)| <br> SLoP is an initiative of Developer Students Club DA-IICT exclusive for students who are new to open source. <br><br> | 28th Sept-23rd Nov | Certificates |
+| 1️⃣1️⃣ | [Hacktoberfest](https://hacktoberfest.digitalocean.com/)| <br> Open source is changing the world - one pull request at a time. <br><br> | 1st Oct-31st Oct | T.Shirt / Plant a Tree |
+| 1️⃣2️⃣ | [Delta Winter Of Code (DWoC](https://dwoc.io/)| <br> DWoC is a winter long program organised by Delta Force, the coding club of NIT Trichy. <br><br> | 18th Oct-31th Jan | Certificates and Swags |
+| 1️⃣3️⃣ | [Open Code IIIT Allahabad](https://opencodeiiita.github.io/)| <br> OpenCode is a month-long event of open-source by Geek Haven, IIIT Allahabad where programmers, designers, and innovators code, design, learn, and build solutions. <br><br> | Nov-Dec | Certificates |
+| 1️⃣4️⃣ | [Script Winter Of Code](https://swoc.scriptindia.org/#/)| <br> Script Winter of Code is an open-source program envisioned by the Script Foundation. <br><br> | 6th Nov-28th Feb | Certificates, Perks and Opportunities |
+| 1️⃣5️⃣ | [FOSSASIA Codeheat](https://codeheat.org/)| <br> Codeheat is a 2-month coding contest for FOSSASIA projects on GitHub. <br><br> | 10th Nov-11th May | Certificates and Prizes |
+| 1️⃣6️⃣ | [24PullRequests](https://24pullrequests.com/)| <br> 24 Pull Requests is an annual community-organized event encouraging developers to give back to open source projects over the holiday season. <br><br> | 1st Dec-24th Dec | No Swags Offered |
+| 1️⃣7️⃣ | [NJACK Winter Of Code IIT Patna](https://www.codepeak.tech/)| <br> NWoC is a program by NJACK, The Official Computer Science Club of IIT Patna + IIT Guwahati. A 1 month program that helps participants understand the paradigm of opne source contribution and gives real-world software development experience. <br><br> | 3rd Dec-6th Jan | Certificates & Swags|
+| 1️⃣8️⃣ | [Google Developer Students Club Winter Of Code 2.0](https://gdsc-woc.tech/)| <br> It's a winter of code program conducted by all the Google Developer Student Clubs together. <br><br> | 5 Dec-5 Feb | Certificates and Swags |
+| 1️⃣9️⃣ | [Kharagpur Winter Of Code](https://kwoc.kossiitkgp.org//)| <br> Kharagpur Winter of Code is a 5-week long online program by IIT Kharagpur. <br><br> | 6th Dec-4th Jan | Certificates and Swags |
+| 2️⃣0️⃣ | [NSEC Winter Of Code](https://winterofcode.com/)| <br> Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution. <br><br> | 16th Dec-20th Jan | Certificates and T.Shirt |
 
 
 ## Fellowships, Scholarships, Internship and Mentorship based programs
 
-| :hash: | Program Name | Details | Duration | Rewards | Stipend |
+| #️⃣ | Program Name | Details | Duration | Rewards | Stipend |
 |:--------:|---------|-------------|-----------|----------|---------|
-| :one: | [MLH Fellowship](https://fellowship.mlh.io/)| <br> The MLH Fellowship is a 12-week remote internship alternative for aspiring technologists. <br><br> | Jan 31st-Apr 22nd/May30th-Aug 19th/Sept 19th-Dec 9th | Certificates and Stipend | Yes |
-| :two: | [Google Summer Of Code](https://summerofcode.withgoogle.com/)| <br> Google Summer of Code is a global, 12-weeks online program into open source software development. <br><br> | Mar-Apr | Certificates and Stipend | Yes |
-| :three: | [Google Season of Docs](https://developers.google.com/season-of-docs/)| <br> Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience. <br><br> | 16th Apr-30th Nov | Certificates | Yes |
-| :four: | [Outreachy](https://www.outreachy.org/)| <br> Outreachy interns work with experienced mentors from open source communities supporting Diversity in Tech. <br><br> | May-Aug | Certificates and Stipend | Yes |
-| :five: | [Rail Girls Summer Of Code (RGSOC)](https://railsgirlssummerofcode.org/)| <br> Rails Girls Summer of Code is a 3months scholarship program to work on open source projects. <br><br> | July-Sept | Certificates | Yes |
-| :six: | [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/)| <br> It's a student learn ambassador program by Microsoft community by amplifying your impact. <br><br> | July-Sept| Badges and Certificates | No |
+| 1️⃣ | [MLH Fellowship](https://fellowship.mlh.io/)| <br> The MLH Fellowship is a 12-week remote internship alternative for aspiring technologists. <br><br> | Jan 31st-Apr 22nd/May30th-Aug 19th/Sept 19th-Dec 9th | Certificates and Stipend | Yes |
+| 2️⃣ | [Google Summer Of Code](https://summerofcode.withgoogle.com/)| <br> Google Summer of Code is a global, 12-weeks online program into open source software development. <br><br> | Mar-Apr | Certificates and Stipend | Yes |
+| 3️⃣ | [Google Season of Docs](https://developers.google.com/season-of-docs/)| <br> Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience. <br><br> | 16th Apr-30th Nov | Certificates | Yes |
+| 4️⃣ | [Outreachy](https://www.outreachy.org/)| <br> Outreachy interns work with experienced mentors from open source communities supporting Diversity in Tech. <br><br> | May-Aug | Certificates and Stipend | Yes |
+| 5️⃣ | [Rail Girls Summer Of Code (RGSOC)](https://railsgirlssummerofcode.org/)| <br> Rails Girls Summer of Code is a 3months scholarship program to work on open source projects. <br><br> | July-Sept | Certificates | Yes |
+| 6️⃣ | [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/)| <br> It's a student learn ambassador program by Microsoft community by amplifying your impact. <br><br> | July-Sept| Badges and Certificates | No |
 
   
 <h2>👨‍💻 Workflow :</h2>
