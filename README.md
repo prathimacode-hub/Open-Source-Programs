@@ -36,8 +36,8 @@ All PR's are welcomed. ✨ this repository to get updated.
 
 | #️⃣ | Program Name | Details | Duration | Rewards |
 |:--------:|---------|-------------|-----------|----------|
-| 1️⃣   | [JGEC Winter Of Code](https://jwoc.tech/)| <br>  <br> JWoC is a coding event organised annually by JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. <br> | 1st Feb - 2nd Mar | Certificates and Swags |
-| 2️⃣   | [Cross Winter Of Code](https://crosswoc.ieeedtu.in/)| <br>  <br> CrossWoC is a six-week long Open Source event organised by IEEE DTU & IEEE DTU CS. <br> | 13th Feb - 28th Mar | Certificates and Swags |
+| 1️⃣ | [JGEC Winter Of Code](https://jwoc.tech/)| <br>  <br> JWoC is a coding event organised annually by JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. <br> | 1st Feb - 2nd Mar | Certificates and Swags |
+| 2️⃣ | [Cross Winter Of Code](https://crosswoc.ieeedtu.in/)| <br>  <br> CrossWoC is a six-week long Open Source event organised by IEEE DTU & IEEE DTU CS. <br> | 13th Feb - 28th Mar | Certificates and Swags |
 | 3️⃣ | [GirlScript Summer Of Code](https://gssoc.girlscript.tech/)| <br>  <br> 3 months long Open Source program during summers conducted by GirlScript Foundation. <br> | 1st Mar - 31st May | Cash Prize to Top 3 & T-shirts and Swags to top 50 |
 | 4️⃣ | [CodeFlow Open Source ](https://www.openforce.tech/)| <br>  <br> OpenForce 2022 is a place where they can meet mentors from OpenSource Organisations and contribute to them under guidance, network and “bring the Open Source Culture”. <br> | 3rd Mar - 23rd Mar | Goodies & Certificates |
 | 5️⃣ | [OSS Summer Of Innovation](https://oss2019.github.io/SoI.html)| <br>  <br> Summer of Innovation, an initiative by the OSS to transform your summer into an innovation extravaganza. <br> | 6th May- 28th July | Certificates and Swags |
