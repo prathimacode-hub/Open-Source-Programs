@@ -24,6 +24,21 @@ If you would like to share it with the world, you can do that here. Go through t
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
+## 👨‍💻 Workflow :
+
+- Fork the repository
+
+- Clone your forked repository using terminal or gitbash.
+
+- Make changes to the cloned repository
+
+- Add, Commit and Push
+
+- Then in GitHub, in your cloned repository, find the option to make a pull request. 
+
+> print("Start contributing for Open-Source-Programs")
+
+
 ## 💡 List Of All The OpenSource Programs
 
 The open source programs listed below mentions the tenure of the contributing period and not the overall process of the programs. So, to register you need to apply well in advance. Timelines would be added soon too.
@@ -71,21 +86,6 @@ All PR's are welcomed. ✨ this repository to get updated.
 | 4️⃣ | [Outreachy](https://www.outreachy.org/)| <br> Outreachy interns work with experienced mentors from open source communities supporting Diversity in Tech. <br><br> | May-Aug | Certificates and Stipend | Yes |
 | 5️⃣ | [Rail Girls Summer Of Code (RGSOC)](https://railsgirlssummerofcode.org/)| <br> Rails Girls Summer of Code is a 3months scholarship program to work on open source projects. <br><br> | July-Sept | Certificates | Yes |
 | 6️⃣ | [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/)| <br> It's a student learn ambassador program by Microsoft community by amplifying your impact. <br><br> | July-Sept| Badges and Certificates | No |
-
-  
-## 👨‍💻 Workflow :
-
-- Fork the repository
-
-- Clone your forked repository using terminal or gitbash.
-
-- Make changes to the cloned repository
-
-- Add, Commit and Push
-
-- Then in GitHub, in your cloned repository, find the option to make a pull request. 
-
-> print("Start contributing for Open-Source-Programs")
 
 
 ## 📜 Code Of Conduct
