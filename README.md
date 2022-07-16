@@ -1,4 +1,6 @@
-# Welcome to Open-Source-Programs👋
+<div align="center">
+  <h1>Welcome to Open-Source-Programs 👋🚗</h1>
+</div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/CoverPhotos/Open-Source-Programs.png">
@@ -11,7 +13,7 @@
 </p> 
 
 
-<h2>📌 Repository</h2>
+## 📌 Repository
 
 The main goal is to create a versatile drop box to add all the opportunities, enthusiasts can explore to get more out of their Open Source journey!!.🚀
 
@@ -22,8 +24,7 @@ If you would like to share it with the world, you can do that here. Go through t
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-
-<h2>👍 List Of All The OpenSource Programs</h2>
+## 💡 List Of All The OpenSource Programs
 
 The open source programs listed below mentions the tenure of the contributing period and not the overall process of the programs. So, to register you need to apply well in advance. Timelines would be added soon too.
 
@@ -32,7 +33,7 @@ All PR's are welcomed. ✨ this repository to get updated.
 <h1 align="center">&#129303;<br><a href="https://github.com/prathimacode-hub"><img src="https://awesome.re/badge.svg"/></a> <br>
 </h1>
   
-## Universities and Competition Based Programs
+## 💪 Universities and Competition Based Programs
 
 | #️⃣ | Program Name | Details | Duration | Rewards |
 |:--------:|---------|-------------|-----------|----------|
@@ -60,7 +61,7 @@ All PR's are welcomed. ✨ this repository to get updated.
 | 2️⃣2️⃣ | [NSEC Winter Of Code](https://winterofcode.com/)| <br> Developer Students Club of NSEC brings to you Winter of Code which is a month-long extravaganza of Open Source contribution. <br><br> | 16th Dec-20th Jan | Certificates and T.Shirt |
 
 
-## Fellowships, Scholarships, Internship and Mentorship based programs
+## 👌 Fellowships, Scholarships, Internship and Mentorship Based Programs
 
 | #️⃣ | Program Name | Details | Duration | Rewards | Stipend |
 |:--------:|---------|-------------|-----------|----------|---------|
@@ -72,7 +73,7 @@ All PR's are welcomed. ✨ this repository to get updated.
 | 6️⃣ | [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/)| <br> It's a student learn ambassador program by Microsoft community by amplifying your impact. <br><br> | July-Sept| Badges and Certificates | No |
 
   
-<h2>👨‍💻 Workflow :</h2>
+## 👨‍💻 Workflow :
 
 - Fork the repository
 
@@ -87,25 +88,28 @@ All PR's are welcomed. ✨ this repository to get updated.
 > print("Start contributing for Open-Source-Programs")
 
 
-<h2>📜 Code Of Conduct</h2>
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Open-Source-Programs/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2>📝 License</h2>  
+## 📝 License
 
 This project follows the [MIT License](https://github.com/prathimacode-hub/Open-Source-Programs/blob/main/LICENSE).
 
 
-<h2>🙂 Project Admin</h2>
+## 😎 Project Admin
 
-<a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width=100px height=100px /></a>
-
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+  </tr>
+</table>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-<h2>⭐ Give this Project a Star</h2>
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -113,12 +117,13 @@ If this project helped you, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
-<!-- <sup><kbd><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md"><strong><em>Click Here</em></strong></a></kbd> to view my open source projects and <kbd><a href="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md"><strong><em>Get In</em></strong></a></kbd> for learning projects.</sup> -->
+<!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
+</td> 
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-<h2>📬 Contact</h2>
+## 📬 Contact
 
 If you want to contact me, you can reach me through below handles.
 
